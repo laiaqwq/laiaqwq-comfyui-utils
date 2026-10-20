@@ -1,0 +1,10 @@
+[project]
+name = "laiaqwq-comfyui-utils"
+version = "0.1.0"
+description = "Dev tooling nodes and routes for ComfyUI performance work"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.comfy]
+PublisherId = "laiaqwq"
+DisplayName = "Laiaqwq Utils"
